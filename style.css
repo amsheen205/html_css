@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    background-color: blue;
+}
+
+.class h1 {
+    background-color:black;
+    width: 30%;
+    text-align: center;
+    color: white;
+    margin: 10px auto
+}
+
+.topic h1 {
+    background-color:black;
+    width: 90%;
+    text-align: left;
+    color: white;
+    margin: 10px auto;
+    font-size: 24px;
+    padding: 15px;
+    border: 2px solid white
+}
+
+h1 {
+    background-color:chartreuse;
+    text-align: center;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding: 16px;
+    width: 90%;
+    margin-left: 60px;
+}
+
+.align-left p {
+    background-color: rgb(248, 4, 248);
+    padding: 25px;
+    color: rgb(1, 1, 1);
+    text-align: left;
+    width: 45%;
+    float: left;
+    margin: 0px 5px;
+    margin-top: 15px;
+    margin-left: 36px;
+    height: 200px;
+    font-size: 18px;
+    box-sizing: border-box;
+    
+}
+
+.align-right p {
+    background-color: rgb(10, 242, 250);
+    padding: 25px;
+    color: rgb(11, 11, 11);
+    text-align: justify;
+    width: 45%;
+    overflow: hidden;
+    margin-top: 37px;
+    margin-left:657px;
+    height: 200px;
+    font-size: 18px;
+    box-sizing: border-box;
+    
+}
+
+.small-image-left p {
+    width: 40%;
+    background-color:#f4f007;
+    box-sizing:border-box;
+    padding: 18px;
+    float: left;
+    margin-left: 110px;
+    
+
+}
+
+.small-image-left img {
+    width: 150px;
+    float: left;
+    margin-right: 12px;
+}
+
+.small-image-right p {
+    width: 40%;
+    background-color:#f4f007;
+    box-sizing:border-box;
+    padding: 18px;
+    overflow: hidden;
+    margin-top: 34px;
+    margin-left: 650px;
+}
+
+.small-image-right img {
+    width: 150px;
+    float: right;
+    margin-left: 12px;
+    text-align: right;
+}
+
+
